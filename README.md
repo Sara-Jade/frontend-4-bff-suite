@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# frontend-4-bff-suite
+frontend-4-bff-suite is the React/TypeScript client application of a BFF demo suite of apps. The BFF suite includes frontend-4-bff-suite, [BFF.Web](https://github.com/Sara-Jade/BFF.Web), [OrderProcessing.Customer](https://github.com/Sara-Jade/OrderProcessing.Customer), [OrderProcessing.Product](https://github.com/Sara-Jade/OrderProcessing.Product), and [BFF.Mobile](https://github.com/Sara-Jade/BFF.Mobile).
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### You will need
+- [Node.js](nodejs.org/). This app uses version 16.16.0
+- npm, which comes with Node. This app was build using version 8.11.0
+
+## Demoing
+
+## Features
 
 ## Available Scripts
 
