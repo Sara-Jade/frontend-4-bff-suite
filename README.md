@@ -16,6 +16,11 @@ frontend-4-bff-suite is the React/TypeScript client application of a BFF demo su
 
 ## Features
 
+### Todo
+- Complete a todo
+- Delete a todo
+- Add a todo
+
 ## Available Scripts
 
 In the project directory, you can run:
