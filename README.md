@@ -12,6 +12,8 @@ frontend-4-bff-suite is the React/TypeScript client application of a BFF demo su
 
 ## Demoing
 
+- To demo the todo feature, `npm start` and use the resulting webpage to complete, delete, and add todos.
+
 ## Features
 
 ## Available Scripts
